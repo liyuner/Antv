@@ -12,7 +12,7 @@ void main(List<String> args) {
   var chart = context['chart'];
   // 构件js型的变量data
   var data = JsObject.jsify([
-    {'type': '教育', 'value': '20'},
+    {'type': '教育', 'value': '10'},
     {'type': '餐饮', 'value': '30'},
     {'type': '医疗', 'value': '10'},
     {'type': '交通', 'value': '10'},
